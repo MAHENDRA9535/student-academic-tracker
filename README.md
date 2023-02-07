@@ -1,7 +1,7 @@
-# student-management-tracker
+# student-academic-tracker
 this repository consists of a project on student acadamic tracker made with the help of html, css and  dbms. 
 step-1
-first install an API(application programming interface) such as VScode or any other API.
+first install an API(application programming interface) or a IDE such as VScode or any other API.
 step-2
 download all the files from the repository.
 step-3
